@@ -1,0 +1,65 @@
+[2022-06-14T12:14:42.643Z]: Error: ENOENT: no such file or directory, scandir '../commands' 
+[2022-06-14T12:15:22.033Z]: Error: Received one or more errors 
+[2022-06-14T12:16:31.157Z]: Error: Received one or more errors 
+[2022-06-14T16:21:35.905Z]: No Database connection 
+[2022-06-14T16:26:33.793Z]: No Database connection 
+[2022-06-14T16:29:13.519Z]: No Database connection 
+[2022-06-14T16:30:54.966Z]: No Database connection 
+[2022-06-14T16:31:36.436Z]: No Database connection 
+[2022-06-14T16:34:18.593Z]: No Database connection 
+[2022-06-14T16:34:52.393Z]: No Database connection 
+[2022-06-14T16:36:20.334Z]: No Database connection 
+[2022-06-14T16:39:41.649Z]: Virhe: Valittu kanava ei ole tekstikanva 
+[2022-06-14T16:41:53.915Z]: options is not defined 
+[2022-06-14T18:14:00.138Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:14:00.138Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:15:00.129Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:15:00.129Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:16:00.136Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:16:00.137Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:18:00.135Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:18:00.136Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:20:00.127Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:20:00.128Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:21:00.128Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:21:00.129Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:22:00.136Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:22:00.137Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:24:00.137Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:24:00.138Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:26:00.130Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:26:00.131Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:29:00.129Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:29:00.130Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:30:00.126Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:30:00.127Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:31:00.006Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:31:00.006Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:32:00.013Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:32:00.014Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:33:00.117Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:33:00.118Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:34:00.005Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:34:00.005Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:35:00.122Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:35:00.123Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:36:00.004Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:36:00.005Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:37:00.019Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:37:00.019Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:38:00.008Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:38:00.009Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:39:00.012Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:39:00.013Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:40:00.016Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:40:00.016Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:41:00.005Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:41:00.006Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:42:00.019Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:42:00.019Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:43:00.012Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:43:00.012Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T18:44:00.011Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T18:44:00.012Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
+[2022-06-14T19:21:00.126Z]: Could not handle store creeping for category POWERGRIP-UUDET 
+[2022-06-14T19:21:00.127Z]: Could not handle store creeping for category POWERGRIP-TULOSSA 
