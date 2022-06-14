@@ -60,8 +60,8 @@ module.exports = {
             })
 
             const replyMessage = (toggled)?
-                `Ilmoitetaan nyt uusista havainnoista kategoriassa **${_category.name}** kanavaan **${channel.name}**` : 
-                `Ilmoitukset havainnoista kategoriassa **${_category.name}** on nyt poistettu käytöstä kanavassa **${channel.name}**`
+                `Ilmoitetaan nyt uusista havainnoista kategoriassa **${_category.name}** kanavaan **${channel.channel.name}**` : 
+                `Ilmoitukset havainnoista kategoriassa **${_category.name}** on nyt poistettu käytöstä kanavassa **${channel.channel.name}**`
 
             return await interaction.editReply(replyMessage);
         }catch(ex){
